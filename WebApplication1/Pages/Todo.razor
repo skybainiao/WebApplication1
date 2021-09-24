@@ -1,0 +1,19 @@
+@page "/todo"
+@using WebApplication1.Data
+<h3>Todo Page</h3>
+
+<p>This is the first try of razor</p>
+
+<u1>
+    @foreach (var todo in todos)
+    {
+        <li>
+            <input type="checkbox" @bind="todo.title"/>
+            <input @bind="todo.title"/>
+        </li>
+    }
+</u1>
+
+<input placeholder="something todo" @bind="newTodo"/>
+<button @onclick="addTodo">Add todo</button>
+
