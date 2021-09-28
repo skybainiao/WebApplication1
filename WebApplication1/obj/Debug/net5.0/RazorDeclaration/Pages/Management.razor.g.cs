@@ -83,7 +83,7 @@ using WebApplication1.Shared;
 #line hidden
 #nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/Management")]
-    public partial class Management : Microsoft.AspNetCore.Components.ComponentBase
+    public partial class Management : LayoutComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)

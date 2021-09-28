@@ -59,3 +59,9 @@
 /Users/chen/RiderProjects/WebApplication1/WebApplication1/obj/Debug/net5.0/Razor/Pages/Todo.razor.g.cs
 /Users/chen/RiderProjects/WebApplication1/WebApplication1/obj/Debug/net5.0/RazorDeclaration/Pages/Management.razor.g.cs
 /Users/chen/RiderProjects/WebApplication1/WebApplication1/obj/Debug/net5.0/Razor/Pages/Management.razor.g.cs
+/Users/chen/RiderProjects/WebApplication1/WebApplication1/obj/Debug/net5.0/scopedcss/Pages/Management.razor.rz.scp.css
+/Users/chen/RiderProjects/WebApplication1/WebApplication1/obj/Debug/net5.0/RazorDeclaration/Pages/Contact.razor.g.cs
+/Users/chen/RiderProjects/WebApplication1/WebApplication1/obj/Debug/net5.0/Razor/Pages/Contact.razor.g.cs
+/Users/chen/RiderProjects/WebApplication1/WebApplication1/obj/Debug/net5.0/RazorDeclaration/Shared/ManagementLayout.razor.g.cs
+/Users/chen/RiderProjects/WebApplication1/WebApplication1/obj/Debug/net5.0/Razor/Shared/ManagementLayout.razor.g.cs
+/Users/chen/RiderProjects/WebApplication1/WebApplication1/obj/Debug/net5.0/scopedcss/Shared/ManagementLayout.razor.rz.scp.css

@@ -14,6 +14,9 @@
       <Compile Update="Pages\Counter.cs">
         <DependentUpon>Counter.razor</DependentUpon>
       </Compile>
+      <Compile Update="Shared\ManagementLayout.cs">
+        <DependentUpon>ManagementLayout.razor</DependentUpon>
+      </Compile>
     </ItemGroup>
 
 </Project>

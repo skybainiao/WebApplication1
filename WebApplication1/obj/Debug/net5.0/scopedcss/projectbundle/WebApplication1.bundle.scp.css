@@ -1,5 +1,6 @@
 @import '';
 
+/* _content/WebApplication1/Pages/Management.razor.rz.scp.css */
 /* _content/WebApplication1/Shared/MainLayout.razor.rz.scp.css */
 .page[b-szu2wa1zub] {
     position: relative;
@@ -70,6 +71,12 @@
         padding-left: 2rem !important;
         padding-right: 1.5rem !important;
     }
+}
+/* _content/WebApplication1/Shared/ManagementLayout.razor.rz.scp.css */
+
+
+.nav-item[b-x2fgqr89p5]{
+    margin-right: 60px;
 }
 /* _content/WebApplication1/Shared/NavMenu.razor.rz.scp.css */
 .navbar-toggler[b-gyyr0poagq] {

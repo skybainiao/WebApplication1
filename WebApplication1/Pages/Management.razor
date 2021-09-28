@@ -1,5 +1,47 @@
 @page "/Management"
-<h3>Management</h3>
+@inherits LayoutComponentBase
+
+<head>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+
+<div class="page">
+    <div class="sidebar">
+        <ManagementLayout/>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <form>
+            <p>enter your imformation</p>
+            <div>
+                <label>Name</label>
+                <br/>
+                <input placeholder="Name"/>
+            </div>
+            <div>
+                <label>Age</label>
+                <br/>
+                <input placeholder="Age"/>
+            </div>
+            <div>
+                <label>Country</label>
+                <br/>
+                <input placeholder="Country"/>
+            </div>
+            <button>Submit</button>
+
+        </form>
+    </div>
+</div>
+
+
+
+
+
+
 
 @code {
     
